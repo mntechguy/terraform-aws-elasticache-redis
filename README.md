@@ -212,7 +212,8 @@ Check out [our other projects][github], [apply for a job][jobs], or [hire us][hi
 
 ### Contributors
 
-|  [![Erik Osterman][osterman_avatar]][osterman_homepage]<br/>[Erik Osterman][osterman_homepage] | [![Igor Rodionov][goruha_avatar]][goruha_homepage]<br/>[Igor Rodionov][goruha_homepage] | [![Andriy Knysh][aknysh_avatar]][aknysh_homepage]<br/>[Andriy Knysh][aknysh_homepage] | [![Daren Desjardins][darend_avatar]][darend_homepage]<br/>[Daren Desjardins][darend_homepage] | [![Max Moon][MoonMoon1919_avatar]][MoonMoon1919_homepage]<br/>[Max Moon][MoonMoon1919_homepage] | [![Christopher Riley][christopherriley_avatar]][christopherriley_homepage]<br/>[Christopher Riley][christopherriley_homepage]<br/> | [![Jonathan Olson][mntechguy_avatar]][mntechguy_homepage]<br/>[Jonathan Olson][mntechguy_homepage] |
+|  [![Erik Osterman][osterman_avatar]][osterman_homepage]<br/>[Erik Osterman][osterman_homepage] | [![Igor Rodionov][goruha_avatar]][goruha_homepage]<br/>[Igor Rodionov][goruha_homepage] | [![Andriy Knysh][aknysh_avatar]][aknysh_homepage]<br/>[Andriy Knysh][aknysh_homepage] | [![Daren Desjardins][darend_avatar]][darend_homepage]<br/>[Daren Desjardins][darend_homepage] | [![Max Moon][MoonMoon1919_avatar]][MoonMoon1919_homepage]<br/>[Max Moon][MoonMoon1919_homepage] | [![Christopher Riley][christopherriley_avatar]][christopherriley_homepage]<br/>[Christopher Riley][christopherriley_homepage] |
+
 |---|---|---|---|---|---|
 
   [osterman_homepage]: https://github.com/osterman
@@ -227,5 +228,3 @@ Check out [our other projects][github], [apply for a job][jobs], or [hire us][hi
   [MoonMoon1919_avatar]: https://github.com/MoonMoon1919.png?size=150
   [christopherriley_homepage]: https://github.com/christopherriley
   [christopherriley_avatar]: https://github.com/christopherriley.png?size=150
-  [mntechguy_homepage]: https://github.com/mntechguy
-  [mntechguy_avatar]: https://github.com/mntechguy.png?size=150
