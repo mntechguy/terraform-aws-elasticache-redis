@@ -1,10 +1,10 @@
 output "id" {
-  value       = "${join("", aws_elasticache_replication_group.default.*.id)}"
+  value       = "${aws_elasticache_replication_group.default.id}"
   description = "Redis cluster id"
 }
 
 output "security_group_id" {
-  value       = "${join("", aws_security_group.default.*.id)}"
+  value       = "${aws_security_group.default.id}"
   description = "Security group id"
 }
 
